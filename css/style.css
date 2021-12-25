@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #292941 16.62%, #0a6db8 85.61%);
+}
+
+.cbc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 25px;
+}
+
+.cbc-img{
+    height: 85px;
+}
+
+.cbc-nav{
+    display: flex;
+    gap: 50px;
+}
+.cbc-nav-item{
+    font-family: 'sarala', sans-serif;
+    color:#FFF2E7;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.conteudo {
+    border-top: 0.4px solid #FFF2E7;
+    margin-bottom: 50px;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.conteudo-principal-esc{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.ctd-time{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 45px;
+    color: #FFF2E7;
+}
+
+.ctd-cent{
+    font-family: 'sarala', sans-serif;
+    color:#FFF2E7;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.btn-hist{
+    background-color: azure;
+    width: 150px;
+    height: 45px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: 'sarala', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.btn-hist:hover{
+    background-color: rgb(21, 99, 151);
+}
+
+.ctd-imagem{
+    height: 400px;
+}
+
+.conteudo-segundario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-top: 50px;
+}
+
+.ctd-champ{
+    border-top: 0.6px solid #FFF2E7;
+    padding-top: 50px;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFF2E7;
+    margin-bottom: 15px;
+}
+
+.ctd-par{
+    font-family: 'sarala', sans-serif;
+    color:#FFF2E7;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.rodape{
+    padding: 20px;
+    border-top: 0.6px solid #FFF2E7;
+}
+
+.rdp-img{
+    height: 20;
+    display: block;
+    margin: 0 auto;
+    height: 100px;
+}

@@ -9,4 +9,6 @@ Centurions é uma torcida do Manchester City da Inglaterra.
 
 Página criada utilizando as tecnologias Html e Css
 
-    > Essa página foi criada utlizando como base o tutorial da Rafaella Ballerini.
+> Essa página foi criada utlizando como base o tutorial da Rafaella Ballerini.
+
+Página: https://ederteixeira.github.io/centurions_page/
